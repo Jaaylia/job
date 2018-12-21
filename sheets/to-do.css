@@ -1,0 +1,32 @@
+*{
+	margin:0px auto;
+}
+
+body{
+	font-family: montserrat;
+	background:#603b26;
+}
+header{
+	font-size:23px;
+	color:black;
+	text-align:center;
+	line-height:50px;
+}
+
+ul{
+    font-size: 26px;
+    line-height: 70px;
+	width:1920px;
+	height:1080px;
+	color:black;
+	background-image: url(man.png);
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+*{
+	padding:0px;
+	margin: 0px auto;
+}
+
+body{
+	font-family: montserrat;
+}
+
+li{
+	float:right;
+	border:2px solid silver;
+	list-style-type:none;
+    padding-left:20px;
+    padding-top:2px;
+    border-left:none;
+    border-top:none;
+    padding-right:15px;
+    border-bottom:none; 
+    margin-top:7px;   
+}
+
+a{
+	color:silver;
+	text-decoration: none;
+	font-weight:normal;
+}
+
+#one{
+     background:black;
+     height:35px;
+}
+
+#dot{
+    border:none;
+	padding-right:20px;
+}
+
+#two{
+	border:1px solid white;
+	box-shadow: 0.3px 0.3px 0.3px 0.3px;
+	height:40px;
+}
+
+h2{
+	font-weight: normal;
+}
+
+#get{
+	border:2px solid silver;
+	border-left:none;
+	border-top:none;
+	border-bottom:none;
+	margin-top:-19px;
+    margin-left:20px;
+}
+
+
+#to{
+	border:none;
+	margin-top:-19px;
+    margin-left:20px;
+}
+
+#three{
+	border:1px solid #943DC5;
+	height:50px;
+	background:#943DC5;
+}
+
+h3{
+	font-weight: normal;
+	font-size:25px;
+	padding-left:50px;
+	margin-top:10px;
+}
+
+button{
+	color:silver;
+	border-radius:3px;
+	background:#FF6100;
+	font-size:14px;
+	float:right;
+	border:1px solid #FF6100;
+	margin-top:-28px;
+	padding-right: 10px;
+	margin-right:30px;
+	padding:5px 8px 5px 8px;
+
+}
+
+select{	
+	float:right;
+	margin-top:-15px;	
+	}
+
+#som{
+	color: silver;
+	position:relative;
+	border-radius:3px;
+	height:30px;
+	width:200px;
+    margin-right:500px;
+    margin-top:-30px;
+}
+
+#sum{
+	color:silver;
+	position:relative;
+	border-radius:3px;
+	height:30px;
+	width:200px;
+    margin-right:280px;
+    margin-top:-30px;
+}
+
+#kis{
+    border:1px solid white;
+	margin-right:120px;
+	padding-left:20px;
+	padding-right:30px;
+	text-align:center;
+	background: white;
+}
+
+
+img{
+	width:980px;
+}
+
+section p{
+	border:1px solid;
+	margin-left: 20px;
+}
+#purr{
+	font-size:30px;
+	color:silver;
+	margin-top:-600px;
+}
+
+#up{
+	border:1px solid black;
+	margin-top:3px;
+	color:#FF6100;
+	font-size: 30px;
+}
+
+#make{
+	border:1px solid black;
+	margin-bottom:10px;
+	font-size: 10px;
+	color:silver;
+}
+
+section button{
+    position: absolute;
+	margin-left:20px;
+	margin-top: 5px;
+	color:silver;
+}
+
+button:hover{
+	color:silver;
+	background:white;
+}
+
+
+
+
